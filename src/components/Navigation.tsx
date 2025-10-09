@@ -10,7 +10,6 @@ const Navigation = () => {
     { label: "Health", href: "https://www.naskenhealth.com/#", external: true },
     { label: "Interview", path: "/interview" },
     { label: "About", path: "/about" },
-    { label: "FAQ", path: "/interview#faq" },
     { label: "Contact", href: "mailto:contact@nasken.ai", external: true },
   ];
 
