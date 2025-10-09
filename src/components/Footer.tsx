@@ -22,7 +22,7 @@ const Footer = () => {
               LCA Notice
             </a>
             <a
-              href="https://www.linkedin.com/company/nasken-health/"
+              href="https://www.linkedin.com/company/nasken/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
