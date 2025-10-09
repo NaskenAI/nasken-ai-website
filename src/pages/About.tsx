@@ -15,7 +15,7 @@ const About = () => {
 
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-muted-foreground mb-6">
-                Nasken is building AI-powered solutions for two critical industries: healthcare and hiring. 
+                Nasken is building AI-powered solutions. 
                 Our mission is to make complex processes more reliable, transparent, and effective through 
                 thoughtful application of artificial intelligence.
               </p>
