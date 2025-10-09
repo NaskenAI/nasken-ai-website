@@ -1,73 +1,83 @@
-# Welcome to your Lovable project
 
-## Project info
+# Nasken.ai
 
-**URL**: https://lovable.dev/projects/e1f13788-3705-43ec-a1a2-4ada8dd5edc2
+**Innovating with AI. Building trustworthy AI systems.**
+Private repository for the official [Nasken.ai](https://www.nasken.ai) website.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Overview
 
-**Use Lovable**
+This site serves as the primary landing hub for **Nasken Inc.**, featuring two key product offerings:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e1f13788-3705-43ec-a1a2-4ada8dd5edc2) and start prompting.
+* **Nasken Health** — AI-enabled remote patient monitoring and care management.
+* **Nasken Interview** — AI-assisted structured interviews with real-time verification.
 
-Changes made via Lovable will be committed automatically to this repo.
+The goal is to provide a simple, fast, and privacy-first web experience connecting both verticals under one unified brand.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## Tech Stack
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+* ⚡ **[Vite](https://vitejs.dev/)** — fast build tool and dev server
+* 🧩 **[TypeScript](https://www.typescriptlang.org/)** — type safety and scalability
+* ⚛️ **[React](https://react.dev/)** — component-based UI
+* 🧱 **[shadcn/ui](https://ui.shadcn.com/)** — modern accessible component library
+* 🎨 **[Tailwind CSS](https://tailwindcss.com/)** — utility-first styling
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/e1f13788-3705-43ec-a1a2-4ada8dd5edc2) and click on Share -> Publish.
+## Development
 
-## Can I connect a custom domain to my Lovable project?
+### 1. Clone the repository
 
-Yes, you can!
+```bash
+git clone https://github.com/nasken-ai/nasken.ai.git
+cd nasken.ai
+```
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### 2. Install dependencies
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+```bash
+npm install
+```
+
+### 3. Run the development server
+
+```bash
+npm run dev
+```
+
+The site will be available at `http://localhost:5173`.
+
+### 4. Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## Deployment
+
+Deployed via **Vercel** for fast, CDN-backed static hosting.
+
+---
+
+## Notes
+
+* This is a **private** codebase for internal development.
+* Environment variables (if any) are stored in `.env.local` (not committed).
+* Content and design updates are managed within the `/src` directory.
+
+---
+
+## Contact
+
+**Nasken Inc.**
+📧 [contact@nasken.ai](mailto:contact@nasken.ai)
+🌐 [https://www.nasken.ai](https://www.nasken.ai)
+
+
