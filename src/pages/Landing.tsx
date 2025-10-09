@@ -13,10 +13,10 @@ const Landing = () => {
         <section className="container mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4">
-              Two products. One mission.
+              Innovating with AI.
             </h1>
             <p className="text-xl text-muted-foreground">
-              AI that improves healthcare operations and hiring reliability.
+              Building trustworthy AI systems.
             </p>
           </div>
 
@@ -34,7 +34,8 @@ const Landing = () => {
               title="Nasken Interview"
               description="Run AI-assisted, structured interviews with real-time verification and audit trails."
               ctaText="Open Interview Site"
-              ctaPath="/interview"
+              ctaHref="https://www.nasken.ai/interview"
+              isExternal={false}
               learnMoreId="nasken-interview"
             />
           </div>
