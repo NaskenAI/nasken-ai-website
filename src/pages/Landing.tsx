@@ -87,7 +87,7 @@ const Landing = () => {
           </div>
 
           {/* Learn More Sections */}
-          <div id="nasken-health" className="max-w-3xl mx-auto mt-20 p-8 bg-card border border-border rounded-lg">
+          {/* <div id="nasken-health" className="max-w-3xl mx-auto mt-20 p-8 bg-card border border-border rounded-lg">
             <h3 className="text-2xl font-semibold mb-4">About Nasken Health</h3>
             <p className="text-muted-foreground mb-4">
               Nasken Health provides comprehensive remote patient monitoring (RPM), chronic care management (CCM), 
@@ -109,7 +109,7 @@ const Landing = () => {
               With real-time verification, anti-cheating analytics, and comprehensive audit trails, you can 
               make confident hiring decisions backed by data.
             </p>
-          </div>
+          </div> */}
         </section>
       </main>
 
