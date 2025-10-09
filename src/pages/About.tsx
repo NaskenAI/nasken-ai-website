@@ -67,11 +67,11 @@ const About = () => {
 
               <h2 className="text-2xl font-semibold text-foreground mt-12 mb-4">Team</h2>
               
-              <p className="text-muted-foreground mb-8">
+              {/* <p className="text-muted-foreground mb-8">
                 Our team brings together expertise in AI, healthcare technology, and enterprise software. 
                 We're backed by experienced mentors and supported by clinical advisors who help us build 
                 solutions that truly serve the needs of healthcare providers and hiring teams.
-              </p>
+              </p> */}
 
               <div className="bg-muted p-8 rounded-lg border border-border">
                 <h3 className="text-xl font-semibold text-foreground mb-4">Get in Touch</h3>
