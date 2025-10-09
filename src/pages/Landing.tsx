@@ -76,7 +76,7 @@ const Landing = () => {
 
           {/* Logos Section */}
           <div className="max-w-4xl mx-auto mt-20 text-center">
-            <p className="text-sm text-muted-foreground mb-8">Backed by mentors and clinicians</p>
+            {/* <p className="text-sm text-muted-foreground mb-8">Backed by mentors and clinicians</p> */}
             <div className="flex flex-wrap justify-center items-center gap-8 opacity-50">
               {/* Placeholder for logos - would be actual logo images in production */}
               <div className="h-12 w-32 bg-muted rounded"></div>
