@@ -168,7 +168,7 @@ const Interview = () => {
                   </AccordionTrigger>
                   <AccordionContent className="text-muted-foreground">
                     Yes. We believe in full transparency. Candidates are informed upfront about what data is collected, 
-                    how it's used, and how long it's retained. They receive clear consent screens before the interview begins.
+                    how it's used, and how long it's retained.  They receive clear consent screens before the interview begins.
                   </AccordionContent>
                 </AccordionItem>
 
