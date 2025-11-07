@@ -22,14 +22,14 @@ const Landing = () => {
 
           {/* Product Cards */}
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto mb-20">
-            <ProductCard
+            {/* <ProductCard
               title="Nasken Health"
               description="AI-enabled RPM/CCM/RTM for clinics. Devices, dashboards, and analytics."
               ctaText="Go to Nasken Health"
               ctaHref="https://www.naskenhealth.com/#"
               isExternal={true}
               learnMoreId="nasken-health"
-            />
+            /> */}
             <ProductCard
               title="Nasken Interview"
               description="Run AI-assisted, structured interviews with real-time verification and audit trails."
