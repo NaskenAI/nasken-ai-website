@@ -7,7 +7,7 @@ const Navigation = () => {
 
   const navLinks = [
     { label: "Home", path: "/" },
-    { label: "Health", href: "https://www.naskenhealth.com/#", external: true },
+    // { label: "Health", href: "https://www.naskenhealth.com/#", external: true },
     { label: "Interview", path: "/interview" },
     { label: "About", path: "/about" },
     { label: "Contact", href: "mailto:contact@nasken.ai", external: true },
