@@ -26,7 +26,7 @@ const Landing = () => {
               <ProductCard
                 title="Nasken Interview"
                 description="Run AI-assisted, structured interviews with real-time verification and audit trails."
-                ctaText="Open Interview Site"
+                ctaText="Learn More..."
                 ctaHref="https://www.nasken.ai/interview"
                 isExternal={true}
               />
