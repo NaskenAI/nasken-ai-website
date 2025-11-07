@@ -28,8 +28,7 @@ const Landing = () => {
                 description="Run AI-assisted, structured interviews with real-time verification and audit trails."
                 ctaText="Open Interview Site"
                 ctaHref="https://www.nasken.ai/interview"
-                isExternal={false}
-                learnMoreId="nasken-interview"
+                isExternal={true}
               />
             </div>
           </div>
